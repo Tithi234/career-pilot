@@ -692,6 +692,17 @@ git fetch upstream && git merge upstream/main
 - [Architecture Guide](./ARCHITECTURE.md)
 - [Issue Tracker](https://github.com/anurag3407/career-pilot/issues)
 
+New contributors can start with:
+
+- Documentation improvements
+- UI polishing in `frontend/src/components/ui`
+- Accessibility fixes
+- Responsive design improvements
+- Small backend validation fixes
+- Writing or improving tests
+- Fixing typos and inconsistent messaging
+
+Avoid making major architectural or authentication changes in your first pull request.
 ---
 
 <div align="center">
